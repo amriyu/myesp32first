@@ -1,4 +1,4 @@
-// sketch 01_01_blink_10
+// sketch 01_01_blink_10 i try
 int ledPin = 13;
 int delayPeriod = 200;
 void setup()
